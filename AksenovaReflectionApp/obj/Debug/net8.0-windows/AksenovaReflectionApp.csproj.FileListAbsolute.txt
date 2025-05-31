@@ -1,0 +1,16 @@
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\bin\Debug\net8.0-windows\AksenovaReflectionApp.exe
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\bin\Debug\net8.0-windows\AksenovaReflectionApp.deps.json
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\bin\Debug\net8.0-windows\AksenovaReflectionApp.runtimeconfig.json
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\bin\Debug\net8.0-windows\AksenovaReflectionApp.dll
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\bin\Debug\net8.0-windows\AksenovaReflectionApp.pdb
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.MainForm.resources
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.csproj.GenerateResource.cache
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.AssemblyInfoInputs.cache
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.AssemblyInfo.cs
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.csproj.CoreCompileInputs.cache
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.dll
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\refint\AksenovaReflectionApp.dll
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.pdb
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\AksenovaReflectionApp.genruntimeconfig.cache
+D:\Dev\repos\AksenovaReflectionTask\AksenovaReflectionApp\obj\Debug\net8.0-windows\ref\AksenovaReflectionApp.dll

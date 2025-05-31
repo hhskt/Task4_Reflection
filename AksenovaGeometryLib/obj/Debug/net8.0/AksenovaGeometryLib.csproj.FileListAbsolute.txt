@@ -1,0 +1,11 @@
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\bin\Debug\net8.0\AksenovaGeometryLib.deps.json
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\bin\Debug\net8.0\AksenovaGeometryLib.dll
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\bin\Debug\net8.0\AksenovaGeometryLib.pdb
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\AksenovaGeometryLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\AksenovaGeometryLib.AssemblyInfoInputs.cache
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\AksenovaGeometryLib.AssemblyInfo.cs
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\AksenovaGeometryLib.csproj.CoreCompileInputs.cache
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\AksenovaGeometryLib.dll
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\refint\AksenovaGeometryLib.dll
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\AksenovaGeometryLib.pdb
+D:\Dev\repos\AksenovaReflectionTask\AksenovaGeometryLib\obj\Debug\net8.0\ref\AksenovaGeometryLib.dll
